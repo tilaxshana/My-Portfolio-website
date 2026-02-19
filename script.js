@@ -15,7 +15,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// script.js
+
 
 const toggleMode = document.getElementById('toggleMode');
 const body = document.body;
